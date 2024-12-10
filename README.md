@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-''''
+```
 map.html
 <html>
 <head>
@@ -101,7 +101,6 @@ capable of producing 50,000 seeds of indigenous flora of the region.</font>
 </html>
 
 lake.html
-<html>
 <head>
 <title>My Home Town</title>    
 </head>
@@ -175,7 +174,7 @@ It has a mandapam (hall) with beautifully carved pillars,which houses the main s
 </p>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 ![alt text](<Screenshot 2024-11-17 184128.png>)
